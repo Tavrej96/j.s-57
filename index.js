@@ -1,11 +1,12 @@
 
 let age = prompt("Enter your age");
 
-if (a>=18) {
-    console.log("if k andr wala block")
+if (age>=18) {
     alert("you are eligible  for driving") 
 }
+else if(age<=50){
+alert("you can't apply for driving");
+}
 else{
-    console.log("else  k andr wala block")
-    alert("you are not aligeble for drivin")
+    alert("you are not eligilbe  for driving license")
 }
