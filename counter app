@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <h1 class="count">0</h1>
+    <button class="minus-btn">-</button>
+    <button class="plus-btn">+</button>
+    <div class="box2">Increment/Dicrement by: <input class="reset" type="number" value="1" /></div>
+    <button>reset</button>
+</body>
+
+</html>
+
+
+
+
+
+
+	
+body {
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+button {
+    margin: 18px;
+    padding: 16px;
+
+    background-color: cornflowerblue;
+    border-radius: 3px;
+
+
+}
+
+.reset {
+    width: 6rem;
+    height: 2rem;
+    font-size: 1rem;
+    align-items: 1px;
+    border: solid black 2px;
+    border-radius: 4px;
+
+}
+
+.box2 {
+    font-size: small;
+    font-family: fantasy;
+
+}
+
+
+
+
+
+
+
+
+
+body {
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+button {
+    margin: 18px;
+    padding: 16px;
+
+    background-color: cornflowerblue;
+    border-radius: 3px;
+
+
+}
+
+.reset {
+    width: 6rem;
+    height: 2rem;
+    font-size: 1rem;
+    align-items: 1px;
+    border: solid black 2px;
+    border-radius: 4px;
+
+}
+
+.box2 {
+    font-size: small;
+    font-family: fantasy;
+
+}
